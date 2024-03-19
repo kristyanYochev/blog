@@ -1,20 +1,21 @@
 baseURL = 'https://yochev.net/'
-languageCode = 'en-us'
+languageCode = 'en-gb'
+theme = 'nightfall'
 title = 'My New Hugo Site'
 
 # [module]
 # [[module.imports]]
 # path = 'github.com/LordMathis/hugo-theme-nightfall'
 
-# [params]
-# hostname = "yochev.net"
-# user = "kristiyan"
+[params]
+hostname = "yochev.net"
+user = "kristiyan"
 
-# [params.author]
-# email = "kris.yochev@gmail.com"
-# name = "Kristiyan Yochev"
+[params.author]
+email = "kris.yochev@gmail.com"
+name = "Kristiyan Yochev"
 
-# [[params.social]]
-# key = 0
-# name = "email"
-# url = "mailto:kris.yochev@gmail.com"
+[[params.social]]
+key = 0
+name = "email"
+url = "mailto:kris.yochev@gmail.com"
