@@ -1,4 +1,4 @@
-baseURL = 'https://yochev.net/'
+baseURL = 'https://yochev.dev/'
 languageCode = 'en-gb'
 theme = 'nightfall'
 title = 'My New Hugo Site'
@@ -8,7 +8,7 @@ title = 'My New Hugo Site'
 # path = 'github.com/LordMathis/hugo-theme-nightfall'
 
 [params]
-hostname = "yochev.net"
+hostname = "yochev.dev"
 user = "kristiyan"
 
 [params.author]
