@@ -19,3 +19,9 @@ name = "Kristiyan Yochev"
 key = 0
 name = "email"
 url = "mailto:kris.yochev@gmail.com"
+
+[menu]
+[[menu.header]]
+name = "about"
+url = "about"
+weight = 1
