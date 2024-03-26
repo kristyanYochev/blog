@@ -83,12 +83,29 @@ prototype. In order to do that, I have to set some criteria:
    is going to consist of mostly programmer art. If I can easily find an asset
    online, I will use it.
 
-Since my game wants to incorporate air traffic control as a game mechanic, I
-will need to find a way to make that task more approachable to the average
+### At the heart of it
+
+Given criteria 1 and 2 from above, I have to ask myself what the core gameplay
+should be. I will look at the major game components and distill them to the
+smallest possible size while preserving their identity.
+
+For the tycoon side of it, that means having just one currency (so no XP and the
+likes), a minimal set of elements to build, and a basic accept/reject for
+incoming flight plans. In terms of the building elements, every airport has at
+least one terminal building, runway, taxiway, and some place for planes to park
+(known in aviation as a 'stand').
+
+On the ATC side, that means some sort of interface to clear aircraft for takeoff
+and landing, give them directions and altitudes (called 'vectoring' in the
+industry), and tell them which taxiways to use when on the ground.
+
+### Teaching the game
+
+Air traffic control is a complex task and if I want to incorporate it into the
+game, I will need to find a way to make it more approachable to the average
 person. Part of that would be just the way information is presented, visually
-drawing the instrument procedures onto the map as routes seems like a better way
-to present them than linking to a PDF. This also going to be helped in no small
-part by the fact that player is the one who's making these procedures.
+drawing aircraft's paths and player-defined routes, so they can see exactly
+where planes will go.
 
 While the information presentation definitely helps, making the game tutorial
 more hands-on would have an even bigger impact on learning. Rail Route's
@@ -96,8 +113,3 @@ tutorial is a fantastic example of the style of tutorial I'm aiming for. This
 kind of learning is called _kinesthetic learning_, and possibly the best summary
 of that is the
 [video on complex games' tutorials by Game Maker's Toolkit](https://www.youtube.com/watch?v=-GV814cWiAw).
-
-Another thing I want to incorporate into my game is ground control, rather than
-taking OpenScope's approach of planes magically appearing at the beginning of
-the runway before clearing them for takeoff and magically disappearing right
-after landing.
