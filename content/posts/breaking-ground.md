@@ -65,6 +65,13 @@ drawing the instrument procedures onto the map as routes seems like a better way
 to present them than linking to a PDF. This also going to be helped in no small
 part by the fact that player is the one who's making these procedures.
 
+While the information presentation definitely helps, making the game tutorial
+more hands-on would have an even bigger impact on learning. Rail Route's
+tutorial is a fantastic example of the style of tutorial I'm aiming for. This
+kind of learning is called _kinesthetic learning_, and possibly the best summary
+of that is the
+[video on complex games' tutorials by Game Maker's Toolkit](https://www.youtube.com/watch?v=-GV814cWiAw).
+
 Another thing I want to incorporate into my game is ground control, rather than
 taking OpenScope's approach of planes magically appearing at the beginning of
 the runway before clearing them for takeoff and magically disappearing right
