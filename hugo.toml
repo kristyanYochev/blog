@@ -9,7 +9,7 @@ title = 'My New Hugo Site'
 
 [params]
 hostname = "yochev.net"
-user = "kristiyan"
+user = "kris"
 
 [params.author]
 email = "kris.yochev@gmail.com"
