@@ -1,7 +1,6 @@
 +++
 title = 'Taking Off'
 date = 2024-03-26
-draft = true
 +++
 
 I have been dreaming to make and publish a game practically since starting to
