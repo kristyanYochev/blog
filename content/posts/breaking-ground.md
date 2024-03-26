@@ -11,8 +11,6 @@ popular games for the sake of learning how they are made. Now having studied
 Systems Programming in high school and on the verge of finishing my bachelor's
 degree in Computer Science, I feel it's about time I try and do it for real.
 
-## The Game
-
 I want to make a game about managing and expanding an airport, taking it slowly
 from a simple airstrip to the likes of London Heathrow, Amsterdam Schiphol, and
 Paris Charles de Gaulle, with the twist that they're going to have to direct
@@ -36,6 +34,16 @@ expand your network and the experience points on various upgrades such as
 automatic signals, faster tracks, and a number of sensors allowing for automated
 routing.
 
+Rail Route does a ton of things right: the balance of the game is good, the
+three game modes are so good they can be games unto themselves, the custom map
+editor has led to a community of rail enthusiasts making maps of their favourite
+regions alongside fictional layouts, the interface is easy to understand and the
+tutorial is fantastic.
+
+It all comes down to the attention to detail the developers have had from the
+very beginning. Each mechanic they've added was well explained and fits well
+with the rest of game, contributing to the coherency of the game.
+
 ### OpenScope
 
 I have tried out a bunch of different ATC simulator games, and while some are
@@ -57,6 +65,23 @@ advanced stuff like RNAV routing, SIDs, and STARs. This led me to the builtin
 airport guides, which vary in their information content from airport to airport.
 For some airports, the guide has the procedures laid out in some form, while for
 others its nothing more than a link to the navigational charts for it.
+
+## The Game is in The Details
+
+Given that the basic premise of my game is a fusion of ATC simulator and tycoon,
+it is vital to consider which features will work together and which ones to
+throw out. The only way to know for certain is to build a prototype and test it
+with real players, but I still need to figure out what I need to put in the
+prototype. In order to do that, I have to set some criteria:
+
+1. The prototype needs to be as small as possible. If a feature is not strictly
+   needed, it doesn't get added in.
+2. The prototype must incorporate the core of the gameplay experience I aim to
+   deliver. E.g. air traffic controlling and basic building mechanics must be
+   present.
+3. The prototype need not look fancy. My art skills are poor, so the prototype
+   is going to consist of mostly programmer art. If I can easily find an asset
+   online, I will use it.
 
 Since my game wants to incorporate air traffic control as a game mechanic, I
 will need to find a way to make that task more approachable to the average
