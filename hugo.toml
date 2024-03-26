@@ -9,7 +9,7 @@ title = 'My New Hugo Site'
 
 [params]
 hostname = "yochev.net"
-user = "kristiyan"
+user = "kris"
 
 [params.author]
 email = "kris.yochev@gmail.com"
@@ -24,4 +24,9 @@ url = "mailto:kris.yochev@gmail.com"
 [[menu.header]]
 name = "about"
 url = "about"
+weight = 2
+
+[[menu.header]]
+name = "posts"
+url = "posts"
 weight = 1
