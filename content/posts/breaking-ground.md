@@ -30,7 +30,11 @@ features and mechanics will need to be prototyped and tested to validate them.
 While I play quite a few games, one that I've been playing regularly since it
 was in early access is [Rail Route](https://railroute.eu/). The combination of
 dispatching and tycoon-like gameplay is so good, I think it has potential
-outside the tracks.
+outside the tracks. The premise behind Rail Route is quite simple - you dispatch
+trains, which earns you money and experience points. You can spend the money to
+expand your network and the experience points on various upgrades such as
+automatic signals, faster tracks, and a number of sensors allowing for automated
+routing.
 
 ### OpenScope
 
