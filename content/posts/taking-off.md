@@ -83,7 +83,7 @@ prototype. In order to do that, I have to set some criteria:
    is going to consist of mostly programmer art. If I can easily find an asset
    online, I will use it.
 
-### At the heart of it
+### At The Heart of It
 
 Given criteria 1 and 2 from above, I have to ask myself what the core gameplay
 should be. I will look at the major game components and distill them to the
@@ -99,7 +99,7 @@ On the ATC side, that means some sort of interface to clear aircraft for takeoff
 and landing, give them directions and altitudes (called 'vectoring' in the
 industry), and tell them which taxiways to use when on the ground.
 
-### Teaching the game
+### Teaching the Game
 
 Air traffic control is a complex task and if I want to incorporate it into the
 game, I will need to find a way to make it more approachable to the average
@@ -113,3 +113,21 @@ tutorial is a fantastic example of the style of tutorial I'm aiming for. This
 kind of learning is called _kinesthetic learning_, and possibly the best summary
 of that is the
 [video on complex games' tutorials by Game Maker's Toolkit](https://www.youtube.com/watch?v=-GV814cWiAw).
+
+### The Boring Stuff
+
+Seeing as I'm in my last months of studying, I will be primarily focusing on
+finishing my degree, so the prototype is not going to see the light of day for
+quite a while. The year is slowly coming to a close, so my workload is not
+immense, but I still won't be able to work full-time on the prototype until
+mid-July. Still, it is small enough that by then it should be in a mostly done
+state, even with my current schedule.
+
+In terms of engine, I'm going with Godot, mostly because of its nice UI system
+and its support for C# as a scripting language.
+
+## Big Picture
+
+This is just the start of this game development journey, I have no idea how long
+it's going to take or whether it will ever finish. I hope it gets to see the
+light of day and be enjoyed by many people. See you in the next one!
